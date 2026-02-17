@@ -78,9 +78,9 @@ export default function Footer() {
             <div className="space-y-3">
               <div>
                 <p className="text-slate-500 text-xs mb-1">Email</p>
-                <a href="mailto:adeelajaz6660@gmail.com"
+                <a href="mailto:adeelasghar2405@gmail.com"
                   className="text-slate-300 text-sm hover:text-[#22d3ee] transition-colors duration-200">
-                  adeelajaz6660@gmail.com
+                  adeelasghar2405@gmail.com
                 </a>
               </div>
               <div>
