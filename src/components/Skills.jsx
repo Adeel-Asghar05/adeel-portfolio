@@ -12,7 +12,7 @@ const categories = [
     title: 'AI / ML Frameworks',
     icon: '🧠',
     color: '#818cf8',
-    skills: ['PyTorch', 'TensorFlow', 'Scikit-learn', 'NumPy', 'Pandas'],
+    skills: ['PyTorch', 'TensorFlow', 'Scikit-learn', 'NumPy', 'Pandas', "Matplotlib"],
   },
   {
     title: 'Computer Vision',
