@@ -69,7 +69,7 @@ export default function Navbar() {
           onClick={() => scrollTo('home')}
           className="text-xl font-bold text-gradient-cyan tracking-tight flex-shrink-0"
         >
-          Adeel<span className="text-white">.</span>
+          Adeel<span className="text-white"></span>
         </button>
 
         {/* Desktop links */}
