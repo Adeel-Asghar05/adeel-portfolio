@@ -58,7 +58,7 @@ export default function Education() {
               </div>
               <div>
                 <h3 className="text-gradient-cyan font-extrabold text-2xl leading-tight">
-                  Bachelor of Science in Computer Science
+                  Bachelor of Science in Software Engineering
                 </h3>
                 <p className="text-white font-semibold mt-1">Islamia University of Bahawalpur</p>
                 <p className="text-slate-400 text-sm mt-0.5">Bahawalpur, Pakistan</p>
@@ -68,12 +68,12 @@ export default function Education() {
             <div className="flex flex-col items-start sm:items-end gap-2 flex-shrink-0">
               <span className="text-sm font-medium px-4 py-2 rounded-full"
                 style={{ background: 'rgba(34,211,238,0.1)', color: '#22d3ee', border: '1px solid rgba(34,211,238,0.25)' }}>
-                Oct 2020 – July 2024
+                Aug 2022 – June 2026
               </span>
-              <span className="text-sm font-bold px-4 py-2 rounded-full text-[#0a0f1e]"
+              {/* <span className="text-sm font-bold px-4 py-2 rounded-full text-[#0a0f1e]"
                 style={{ background: 'linear-gradient(135deg, #22d3ee, #0891b2)' }}>
                 CGPA: 3.6 / 4.0
-              </span>
+              </span> */}
             </div>
           </div>
 
