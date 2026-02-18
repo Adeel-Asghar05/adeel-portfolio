@@ -6,6 +6,7 @@ const stats = [
   { value: '2',  label: 'Publications' },
   { value: '3',  label: 'Datasets' },
   // { value: '3.6',label: 'CGPA' },
+  // {value: 'Remote', label: 'Location'}
 ]
 
 const focuses = [

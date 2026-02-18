@@ -26,7 +26,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="text-2xl font-bold text-gradient-cyan mb-3">
-              Adeel<span className="text-white">.</span>
+              Adeel<span className="text-white"></span>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed mb-5">
               Machine Learning Engineer & AI Researcher specializing in lightweight, interpretable AI systems for real-world applications.
