@@ -147,6 +147,10 @@ export default function Hero() {
               {/* <a href="/Adeel-Asghar-CV.pdf" download className="btn-outline">
                 Download CV
               </a> */}
+                <button onClick={() => scrollTo('contact')}
+                className="px-8 py-3 rounded-lg font-semibold border-2 border-[#22d3ee]/30 text-[#22d3ee] hover:bg-[#22d3ee]/10 hover:border-[#22d3ee] transition-all duration-300">
+                Let's Talk
+              </button>
               <button onClick={() => scrollTo('contact')}
                 className="px-8 py-3 rounded-lg font-semibold text-slate-400 hover:text-white border border-white/10 hover:border-white/20 hover:bg-white/5 transition-all duration-300">
                 {"< > let's collaborate"}
