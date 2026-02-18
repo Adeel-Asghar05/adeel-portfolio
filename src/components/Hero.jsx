@@ -146,12 +146,12 @@ export default function Hero() {
               <button onClick={() => scrollTo('projects')} className="btn-primary">
                 View Projects
               </button>
-              <a href="/Adeel-Asghar-CV.pdf" download className="btn-outline">
+              {/* <a href="/Adeel-Asghar-CV.pdf" download className="btn-outline">
                 Download CV
-              </a>
+              </a> */}
               <button onClick={() => scrollTo('contact')}
                 className="px-8 py-3 rounded-lg font-semibold text-slate-400 hover:text-white border border-white/10 hover:border-white/20 hover:bg-white/5 transition-all duration-300">
-                Contact Me
+                {"< > let's collaborate"}
               </button>
             </motion.div>
 
@@ -235,7 +235,7 @@ export default function Hero() {
                 transition={{ repeat: Infinity, duration: 4, ease: 'easeInOut' }}
                 className="absolute -top-4 -right-4 px-3 py-2 rounded-xl text-xs font-semibold"
                 style={{ background: 'rgba(13,21,41,0.95)', border: '1px solid rgba(34,211,238,0.3)', color: '#22d3ee', backdropFilter: 'blur(10px)' }}>
-                🧠 AI Researcher
+                🧠 AI/ML Engineer
               </motion.div>
 
               <motion.div
