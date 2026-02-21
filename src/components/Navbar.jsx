@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 
 const navItems = [
-  // { label: 'Home',         id: 'home' },
+  { label: 'Home',         id: 'home' },
   { label: 'About',        id: 'about' },
   { label: 'Skills',       id: 'skills' },
   { label: 'Experience',   id: 'experience' },
