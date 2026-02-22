@@ -168,7 +168,7 @@ const categories = [
     //   { name: 'OpenCV', level: 90 },
     //   { name: 'Object Detection', level: 90 },
     //   { name: 'Semantic Segmentation', level: 85 },
-    //   { name: 'Grad-CAM', level: 85 },
+      { name: 'Grad-CAM', level: 85 },
     ],
   },
   {
