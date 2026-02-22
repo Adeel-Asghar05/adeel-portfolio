@@ -165,7 +165,7 @@ const categories = [
     // color: '#34d399',
     // skills: [
     //   { name: 'YOLO (v5-v8)', level: 95 },
-    //   { name: 'OpenCV', level: 90 },
+      { name: 'OpenCV', level: 90 },
       { name: 'Object Detection', level: 90 },
       { name: 'Semantic Segmentation', level: 85 },
       { name: 'Grad-CAM', level: 85 },
