@@ -15,7 +15,7 @@ const achievements = [
   'Completed capstone project on deep learning for healthcare diagnostics',
   'Published research work in medical AI during undergraduate studies',
   'Active member of university AI research laboratory',
-  'Collaborated with international institutions on joint AI research',
+  // 'Collaborated with international institutions on joint AI research',
   // 'Graduated with distinction in Computer Science',
 ]
 
