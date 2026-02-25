@@ -615,7 +615,7 @@ export default function Projects() {
 
       {/* <div className="max-w-7xl mx-auto relative"> */}
         {/* <motion.div {...fadeUp(0)} className="text-center mb-16"> */}
-          {/* <span className="text-[#22d3ee] text-sm font-semibold tracking-widest uppercase mb-3 block">What I've Built</span> */}
+          <span className="text-[#22d3ee] text-sm font-semibold tracking-widest uppercase mb-3 block">What I've Built</span>
           <h2 className="text-4xl sm:text-5xl font-extrabold text-white mb-4">Featured <span className="text-gradient-cyan">Projects</span></h2>
           <div className="w-16 h-0.5 mx-auto mb-4" style={{ background: 'linear-gradient(90deg, transparent, #22d3ee, transparent)' }} />
           <p className="text-slate-400 max-w-xl mx-auto">Production-ready AI systems validated through research and real-world deployment</p>
